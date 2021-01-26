@@ -1,0 +1,123 @@
+.image {
+	background-image: url("/Picture/Picture.PNG");
+	background-size: cover;
+}
+.logo{
+
+	width: 150px;
+	height: 150px;
+	margin-left: 600px;
+	margin-top: 70px;
+}
+.logo1{
+
+	width: 90px;
+	height: 90px;
+	margin-top: 10px;
+	float: left;
+	margin-top: -50px;
+	margin-left: 20px;
+	
+}
+.text{
+	margin-left: 550px;
+	margin-top: 30px;
+	width: 250px;
+	height: 30px;
+	font-size: 18px;
+	letter-spacing: 2px;
+
+}
+button{
+	background-color: #315FEF ;
+	color: #F7F8FB ;
+	margin-left: 630px;
+	margin-top: 30px;
+	width: 100px;
+	height: 30px;
+
+}
+.pro{
+	width: 1000px;
+	height: 30px;
+	letter-spacing: 3px;
+	margin-top: -1000px;
+	margin-left: 70px;
+	border-bottom-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	border-top-right-radius: 10px;
+	border-top-left-radius: 10px;
+
+}
+h1
+{
+	margin-left: 400px;
+	font-size: 32px;
+	font-family: algerian;
+	letter-spacing: 2px;
+}
+.search{
+	color: #4C4E54  ;
+	width: 80px;
+	height: 30px;
+	border-bottom-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	border-top-right-radius: 10px;
+	border-top-left-radius: 10px;
+}
+
+ .text2{
+	width: 200px;
+	height: 100;
+	font-size: 24px;
+	font-family: sans-serif;
+	background-color: #C4CCC7 ;
+	border-bottom-right-radius: 10px;
+	border-top-left-radius: 10px;
+	margin-left: 190px;
+	margin-top: 30px;
+}
+.text3{
+	width: 200px;
+	height: 100;
+	font-size: 24px;
+	font-family: sans-serif;
+	background-color: #C4CCC7 ;
+	border-bottom-right-radius: 10px;
+	border-top-left-radius: 10px;
+	margin-left: 460px;
+	margin-top: -50px;
+}
+.text4{
+	width: 200px;
+	height: 100;
+	font-size: 24px;
+	font-family: sans-serif;
+	background-color: #C4CCC7 ;
+	border-bottom-right-radius: 10px;
+	border-top-left-radius: 10px;
+	margin-left: 730px;
+	margin-top: -75px;
+}
+.text5{
+	width: 200px;
+	height: 100;
+	font-size: 24px;
+	font-family: sans-serif;
+	background-color: #C4CCC7 ;
+	border-bottom-right-radius: 10px;
+	border-top-left-radius: 10px;
+	margin-left: 1000px;
+	margin-top: -75px;
+}
+.menu1{
+	height: 100px;
+	width: 100px;
+	border-bottom-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	border-top-right-radius: 10px;
+	border-top-left-radius: 10px;
+	margin-left: 185px;
+	margin-top: 30px;
+
+}
